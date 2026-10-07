@@ -11,8 +11,8 @@
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00E5A8?style=for-the-badge&logoColor=white)](https://atharva-dudhe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-dudhe)
-[![YouTube](https://img.shields.io/badge/YouTube-Build_in_Public-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@YOUR-CHANNEL)
-[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
+[![YouTube](https://img.shields.io/badge/YouTube-Build_in_Public-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AtharvaDudhe_1205)
+[![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvadudhe125@gmail.com)
 
 </div>
 
