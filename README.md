@@ -100,17 +100,7 @@ $ cat about.json
 
 <img src="https://streak-stats.demolab.com?user=atharv1205&theme=tokyonight&hide_border=true" alt="streak"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atharv1205&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="trophies"/>
-
 </div>
-
-<details>
-<summary>📈 <b>Contribution Graph</b> (click to see me pretend I sleep at night)</summary>
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atharv1205&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="activity graph"/>
-
-</details>
 
 ---
 
