@@ -121,8 +121,8 @@ If you've got an idea, a bug, or a coffee — I'm in.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_See_My_Portfolio-00E5A8?style=for-the-badge)](https://YOUR-PORTFOLIO-URL)
-[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-FF6B6B?style=for-the-badge)](mailto:YOUR-EMAIL)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Portfolio-00E5A8?style=for-the-badge)](https://atharva-dudhe.vercel.app/)
+[![Hire Me](https://img.shields.io/badge/💼_Hire_Me-FF6B6B?style=for-the-badge)](mailto:atharvadudhe125@gmail.com)
 
 <br/>
 
