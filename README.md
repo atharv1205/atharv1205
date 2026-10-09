@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00E5A8?style=for-the-badge&logoColor=white)](https://atharvadudhe.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-00E5A8?style=for-the-badge&logoColor=white)](https://atharva-dudhe.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-dudhe)
 [![YouTube](https://img.shields.io/badge/YouTube-Build_in_Public-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@AtharvaDudhe_1205)
 [![Email](https://img.shields.io/badge/Email-Say_Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atharvadudhe125@gmail.com)
@@ -121,7 +121,7 @@ If you've got an idea, a bug, or a coffee — I'm in.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_See_My_Portfolio-00E5A8?style=for-the-badge)](https://atharvadudhe.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_See_My_Portfolio-00E5A8?style=for-the-badge)](https://atharva-dudhe.vercel.app/)
 [![Hire Me](https://img.shields.io/badge/💼_Hire_Me-FF6B6B?style=for-the-badge)](mailto:atharvadudhe125@gmail.com)
 
 <br/>
